@@ -19,32 +19,12 @@ buttons and menus. Product data is read from a CSV file.
 
 ---
 
-### IT Automation Scripts (Placeholder)
-Planned Python scripts to practice automating simple IT tasks such as organizing
-files, checking inputs, and basic system-related operations.
+### Smart Filing Database System (SQL)
+A SQL database project focused on relational schema design and analysis queries.
 
-- Tools: Python
-- Skills: scripting, automation
-- Status: Coming soon
-
----
-
-### Cybersecurity Basics Practice (Placeholder)
-Planned small exercises focused on understanding basic security concepts like
-safe input handling and simple defensive programming.
-
-- Tools: Python
-- Skills: security fundamentals, logic building
-- Status: Planned
-
----
-
-### System Administration Practice (Placeholder)
-Planned notes and scripts related to system setup, troubleshooting, and common
-IT workflows.
-
-- Skills: system operations, documentation
-- Status: Planned
+- Tools: SQL, MySQL
+- Skills: database design, JOINs, aggregation queries
+- [View Project](./sql-smart-filing-database)
 
 ---
 
@@ -53,7 +33,6 @@ IT workflows.
 - GUI application development
 - Working with CSV data
 - Writing and organizing code
-- Basic IT and security concepts
 - SQL queries and database concepts
 - Organizing and documenting projects
 
