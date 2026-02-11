@@ -1,10 +1,10 @@
 # Smart Filing Database System (SQL)
 
 ## Overview
-This project focuses on designing and querying a SQL database to organize
+This team project focuses on designing and querying a SQL database to organize
 client projects, team members, issues, and related data in a structured way.
 
-## What I Built
+## What We Built
 - Designed a relational database schema (ERD)
 - Created tables with primary and foreign keys
 - Inserted sample data
