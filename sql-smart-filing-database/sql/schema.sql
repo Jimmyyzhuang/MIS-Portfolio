@@ -1,0 +1,2 @@
+-- Smart Filing Database Schema
+-- Tables and relationships defined here
